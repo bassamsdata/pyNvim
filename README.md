@@ -2,6 +2,12 @@
 
 A minimal Neovim configuration primarily focused on Python development.
 
+
+
+https://github.com/user-attachments/assets/44342e6e-f9f3-4739-8641-731d86ac60b3
+
+
+
 ## Installation
 
 1.  **Create the configuration directory:**
